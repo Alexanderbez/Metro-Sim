@@ -5,7 +5,6 @@
 ###              the Washington Metro by creating Train and Person threads  ###
 ###############################################################################
 
-# CMSC 330 / Summer 2012 / Project 5
 # Student: Alexander Bezobchuk
 
 require "monitor"
