@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby 
 ############################################################
-### CMSC330 Project: Multi-threaded Train Simulation   ###
+### CMSC330 Project: Multi-threaded Train Simulation     ###
 ### Source code: sim.rb                                  ###
 ############################################################
 
